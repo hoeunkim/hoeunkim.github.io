@@ -10,10 +10,10 @@ body {
 	background-color: #eeddcc;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
+
 }
 
-p {
-	font-weight: bold;
+a:link {
+	color: #37322d;
 }
-
 
