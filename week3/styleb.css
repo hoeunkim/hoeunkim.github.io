@@ -2,7 +2,7 @@ h1 {
 	color: #37322d; 
 	text-align: left;
 	background-color: #88ddcc;
-	font font-family: Verdana; 
+	font-family: Verdana; 
 
 }
 
@@ -13,9 +13,6 @@ body {
 
 p {
 	font-weight: bold;
-	background-color: #88ddcc;
-	color: #eeddcc;
-
 }
 
 
