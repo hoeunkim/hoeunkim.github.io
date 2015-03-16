@@ -1,15 +1,11 @@
-body {
-	background-color: #eeddcc;
-	color: #36312c;
-	font-size:16px;
-	text-align: center;
-}
-
 h1 {
-	font-size: 2.5em;
-	margin-top: 6em;
+	background-color: ff8877;
 }
 
-p {
-	margin-top:1em;
+h1.padding {
+	padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+
 }
