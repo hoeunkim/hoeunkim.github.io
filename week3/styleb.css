@@ -1,14 +1,10 @@
-h1 {
-	background-color: 88ddcc;
-}
-
-h1.padding {
-	padding-top: 25px;
-    padding-right: 50px;
-    padding-bottom: 25px;
-    padding-left: 50px;
-
-}
-b { 
+body { 
 	background-color: eeddcc;
 }
+
+h1 {
+	text-align: center;
+	color: 37322d
+	
+}
+
