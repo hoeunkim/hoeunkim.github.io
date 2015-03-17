@@ -2,19 +2,20 @@
 body { 
 	background-color: #eeddcc;
 	color: #37322d;
-	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 
 }
-h1 {
-	 
-	text-align: left;
+header {
 	background-color: #88ddcc;
-	font-family: Verdana;
 	padding:1em;
-
+}
+h1 {
+	font-family: Verdana;
 }
 a {
 	color: #37322d;
 }
-
+.center {
+	display:block;
+	margin:0 auto 0 auto;
+}
