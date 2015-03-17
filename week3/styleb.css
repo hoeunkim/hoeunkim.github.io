@@ -9,13 +9,15 @@ header {
 	background-color: #88ddcc;
 	padding:1em;
 }
-h1 {
-	font-family: Verdana;
-}
 a {
 	color: #37322d;
 }
 .center {
 	display:block;
 	margin:0 auto 0 auto;
+}
+.logo {
+	font-family: Verdana, sans-serif;
+	font-size:2em;
+	font-weight:bold;
 }
